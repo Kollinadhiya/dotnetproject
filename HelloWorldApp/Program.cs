@@ -10,7 +10,7 @@ namespace HelloWorldApp
         }
         public void input()
         {
-            Console.WriteLine("Ramprasad");
+            Console.WriteLine("Ramprasad welcome to RIT");
         }
     }
 }
