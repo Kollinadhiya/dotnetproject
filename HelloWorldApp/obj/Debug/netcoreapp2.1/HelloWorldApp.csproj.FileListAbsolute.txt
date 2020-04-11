@@ -1,0 +1,11 @@
+C:\Users\RAMPRASAD\source\repos\HelloWorldApp\HelloWorldApp\bin\Debug\netcoreapp2.1\HelloWorldApp.deps.json
+C:\Users\RAMPRASAD\source\repos\HelloWorldApp\HelloWorldApp\bin\Debug\netcoreapp2.1\HelloWorldApp.runtimeconfig.json
+C:\Users\RAMPRASAD\source\repos\HelloWorldApp\HelloWorldApp\bin\Debug\netcoreapp2.1\HelloWorldApp.runtimeconfig.dev.json
+C:\Users\RAMPRASAD\source\repos\HelloWorldApp\HelloWorldApp\bin\Debug\netcoreapp2.1\HelloWorldApp.dll
+C:\Users\RAMPRASAD\source\repos\HelloWorldApp\HelloWorldApp\bin\Debug\netcoreapp2.1\HelloWorldApp.pdb
+C:\Users\RAMPRASAD\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp2.1\HelloWorldApp.csprojAssemblyReference.cache
+C:\Users\RAMPRASAD\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp2.1\HelloWorldApp.csproj.CoreCompileInputs.cache
+C:\Users\RAMPRASAD\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp2.1\HelloWorldApp.AssemblyInfoInputs.cache
+C:\Users\RAMPRASAD\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp2.1\HelloWorldApp.AssemblyInfo.cs
+C:\Users\RAMPRASAD\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp2.1\HelloWorldApp.dll
+C:\Users\RAMPRASAD\source\repos\HelloWorldApp\HelloWorldApp\obj\Debug\netcoreapp2.1\HelloWorldApp.pdb
