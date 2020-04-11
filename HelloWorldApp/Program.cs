@@ -6,7 +6,11 @@ namespace HelloWorldApp
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hello Universe!");
+        }
+        public void input()
+        {
+            Console.WriteLine("Ramprasad welcome to RIT");
         }
     }
 }
